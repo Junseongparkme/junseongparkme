@@ -7,7 +7,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:junseongpark.dev@gmail.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junseongparkme)](https://github.com/anuraghazra/github-readme-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/bboyoung01)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bboyoung01)](https://solved.ac/bboyoung01)
 
 <!--
 **Junseongparkme/junseongparkme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
