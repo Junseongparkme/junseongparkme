@@ -4,7 +4,7 @@
 ### 💬 Hi, there! 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junseongparkme)](https://github.com/anuraghazra/github-readme-stats)
 
-<script src="https://gist.github.com/Junseongparkme/2ac7ab8b794be12c2514d0da579450a7.js"></script>
+
 <!--
 **Junseongparkme/junseongparkme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bboyoung01)](https://solved.ac/bboyoung01)
