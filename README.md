@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/junseongparkme/)](https://www.linkedin.com/in/junseongparkme/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:junseongpark.dev@gmail.com)
 ### 💬 Hi, there! 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junseongparkme&theme=blue-green&show_icons=true&hide=contribs,prs)](https://github.com/Junseongparkme?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseongparkme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseongparkme&layout=compact)](https://github.com/Junseongparkme?tab=repositories)
 
 <!--
 **Junseongparkme/junseongparkme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
