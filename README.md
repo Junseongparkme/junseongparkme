@@ -8,6 +8,7 @@
 [![Blog Badge](https://img.shields.io/badge/-Tech_Blog-181717?style=flat-quare&logo=Github&logoColor=white&link=#)](https://velog.io/@junseongpark)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-quare&logo=Twitter&logoColor=white&link=#)](https://twitter.com/junseongparkev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-quare&logo=Instagram&logoColor=white&link=#)](https://www.instagram.com/junseongparkev/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-quare&logo=Facebook&logoColor=white&link=#)](https://www.facebook.com/junseongparkev/)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseongparkme&layout=compact)](https://github.com/Junseongparkme?tab=repositories)
 
