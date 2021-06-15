@@ -4,6 +4,7 @@
 ### 💬 Hi, there! 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junseongparkme&theme=blue-green&show_icons=true&hide=contribs,prs)](https://github.com/Junseongparkme?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseongparkme&layout=compact)](https://github.com/Junseongparkme?tab=repositories)
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **Junseongparkme/junseongparkme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
