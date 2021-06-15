@@ -5,4 +5,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junseongparkme&theme=blue-green&show_icons=true&hide=contribs,prs)](https://github.com/Junseongparkme?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseongparkme&layout=compact)](https://github.com/Junseongparkme?tab=repositories)
 
-[!](https://img.shields.io/badge/f-a-red)
+[!](https://img.shields.io/badge/HTML-3aeb34-HTML)
